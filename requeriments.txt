@@ -1,0 +1,10 @@
+streamlit
+pandas
+PyMuPDF
+openpyxl
+spacy
+matplotlib
+scikit-learn
+wordcloud
+
+
